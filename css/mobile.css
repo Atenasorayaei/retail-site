@@ -1,0 +1,51 @@
+/* #slider:nth-child(1){
+    background-image: url('../img/offer/hero-01.png') ;
+}
+.offer_timer_one{
+    background: none;
+}
+.count_down{
+    display: block;
+    height: 300px;
+}
+.btn-icon-right {
+display:inline-block;
+height: 20px;
+width: 100%;
+
+}
+.offer_time_flex{
+    display: block;
+    height: 400px;
+}
+.offer_timer_one{
+    display: block;
+} */
+@media (max-width: 1440px) {
+  
+    #banner_one {
+        padding: 150px 0;
+        background-position: center;
+    }
+    .main-menu nav > ul > li > a {
+        padding: 25px 20px;
+    }
+    .mobile-menu-logo .logo {
+        width: 65%;
+        overflow: hidden;
+        
+    }
+}
+#slider {
+    background-position: 76%;
+}
+.mega-menu{
+      display: block;
+}
+.mega-menu-inner{
+    display: flex;
+    flex-direction: column;
+}
+#offer_timer_one{
+    background-position: 20%;
+}
